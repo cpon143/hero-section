@@ -103,11 +103,14 @@ button {
   .hero-container {
     grid-template-columns: 1fr;
   }
+  .right-section{
+    justify-self: center;
+  }
 }
 
-@media screen and (max-width: 398px) {
+@media screen and (max-width: 390px) {
   .container{
-    padding: 2rem 1rem;
+    padding: 2rem 0.5rem;
     /* justify-self: center; */
   }
 }
