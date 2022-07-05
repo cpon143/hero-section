@@ -108,12 +108,14 @@ button {
   }
 }
 
-@media screen and (max-width: 390px) {
+@media  (min-width: 385px) {
   .container{
     padding: 2rem 0.5rem;
-    /* justify-self: center; */
   }
   .top{
     right: 1rem;
+  }
+  .right-section{
+    width: 22rem;
   }
 }
