@@ -110,12 +110,16 @@ button {
 
 @media  (max-width: 434px) {
   .container{
-    padding: 2rem 0.5rem;
+    padding: 4px 4px;
   }
   .top{
     right: 1rem;
   }
   .right-section{
     width: 19rem;
+    padding: 1.8rem 1.2rem;
+  }
+  h2{
+    font-size: 2.1rem;
   }
 }
