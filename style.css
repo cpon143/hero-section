@@ -110,7 +110,7 @@ button {
 
 @media  (max-width: 434px) {
   .container{
-    padding: 4px 4px;
+    padding: 31px 4px;
   }
   .top{
     right: 1rem;
