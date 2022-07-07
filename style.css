@@ -108,7 +108,7 @@ button {
   }
 }
 
-@media  (min-width: 350px) {
+@media  (max-width: 434px) {
   .container{
     padding: 2rem 0.5rem;
   }
@@ -116,6 +116,6 @@ button {
     right: 1rem;
   }
   .right-section{
-    width: 22rem;
+    width: 19rem;
   }
 }
